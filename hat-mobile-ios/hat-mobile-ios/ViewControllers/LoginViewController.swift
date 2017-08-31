@@ -210,7 +210,7 @@ internal class LoginViewController: UIViewController, UITextFieldDelegate {
         
         // button
         self.buttonLogon.setTitle(NSLocalizedString("logon_label", comment:  "username"), for: UIControlState())
-        self.buttonLogon.backgroundColor = .appBase
+        self.buttonLogon.backgroundColor = .tealDark
         
         self.joinCommunityButton.addBorderToButton(width: 1, color: .white)
         self.getAHATButton.addBorderToButton(width: 1, color: .white)

@@ -4,7 +4,7 @@ inhibit_all_warnings!
 # Uncomment this line if you're using Swift
 use_frameworks!
 
-target 'hat-mobile-ios' do
+target 'TATA' do
     pod 'Alamofire'
     pod 'RealmSwift'
     pod 'SwiftyJSON'
@@ -22,7 +22,7 @@ target 'hat-mobile-ios' do
     pod 'MarkdownView'
 end
 
-target 'hat-mobile-iosTests' do
+target 'TATATests' do
     
     inherit! :complete
     pod 'Alamofire'
@@ -41,7 +41,7 @@ target 'hat-mobile-iosTests' do
     pod 'MarkdownView'
 end
 
-target 'hat-mobile-iosUITests' do
+target 'TATAUITests' do
 
 end
 

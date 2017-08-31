@@ -50,10 +50,10 @@ internal class AppDelegate: UIResponder, UIApplicationDelegate {
         let notificationSettings = UIUserNotificationSettings(types: [.alert, .sound], categories: nil)
         UIApplication.shared.registerUserNotificationSettings(notificationSettings)
         
-        self.window?.tintColor = .appBase
+        self.window?.tintColor = .tealDark
         
         UINavigationBar.appearance().isOpaque = true
-        UINavigationBar.appearance().barTintColor = .teal
+        UINavigationBar.appearance().barTintColor = .tealDark
         UINavigationBar.appearance().tintColor = .white
         UINavigationBar.appearance().titleTextAttributes = [NSForegroundColorAttributeName: UIColor.white, NSFontAttributeName: UIFont(name: Constants.FontNames.openSans, size: 20)!]
         UIBarButtonItem.appearance()

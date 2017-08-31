@@ -2,17 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "filled Circle 11.21.55.png",
+      "filename" : "filled Circle.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "filled Circle 11.21.55@2x.png",
+      "filename" : "filled Circle@2x.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "filled Circle 11.21.55@3x.png",
+      "filename" : "filled Circle@3x.png",
       "scale" : "3x"
     }
   ],
